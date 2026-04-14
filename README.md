@@ -1,10 +1,12 @@
 <h1 align="center">Hello, my name is Luciano</h1>
-<h3 align="center">Quantitative Finance | Asset Management | Machine Learning  !</h3>
+<h3 align="center">Quantitative Finance | Asset Management | Machine Learning  </h3>
 
 I build quantitative models for financial markets, with a focus on:
+
 Derivatives pricing (Black-Scholes, Monte Carlo)
 Systematic trading strategies and backtesting
 Risk modeling and portfolio construction.
+
 My work combines stochastic modeling, statistical learning, and efficient implementation.*
 
 •⁠  ⁠📫 How to reach me *luciano.prado2511@gmail.com*
